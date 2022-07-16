@@ -1,1 +1,1 @@
-# BinanceCryptoAnalytics
+# CryptoBehavoirModel
